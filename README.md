@@ -71,3 +71,17 @@ add eslint settings (edit settings.json)
 After installing an extension, open the command pallete and:
 
 > Reload Window
+
+--
+
+open internal terminal
+
+Shortcut is ctrl + + + `
+
+https://code.visualstudio.com/docs/
+
+--
+
+https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
+
+- ⇧⌘V
