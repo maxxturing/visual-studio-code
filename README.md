@@ -85,3 +85,19 @@ https://code.visualstudio.com/docs/
 https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
 
 - ⇧⌘V
+
+--
+
+JavaScript
+
+- Live Server
+- Material Icon Theme
+  - Gives files icons
+- Monokai++
+  - Theme for monokai colour theme
+
+--
+
+Using command line:
+
+- Control + r = reverse history
