@@ -101,3 +101,9 @@ JavaScript
 Using command line:
 
 - Control + r = reverse history
+
+* Use `code .` to open folder you're in on VS Code
+
+- Use command d when selecting word to edit multiple words at once that are the same
+
+- shift + ctrl + command + down (this lets you add/delete multiple lines with same edits at once)
